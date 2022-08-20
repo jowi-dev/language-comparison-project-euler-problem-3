@@ -1,0 +1,4 @@
+rust-example/target/*
+rust-example/target/**/*
+zig-example/zig-out/**/*
+zig-example/zig-cache/**/*
