@@ -22,13 +22,13 @@ Rust by comparison is a breeze in someways and a headache in others. The end pro
 
 ### Zig
 * Build: `zig build -Drelease-fast=true`
-* ./zig-example/zig-out/bin/project-3 --single-thread
-* ./zig-example/zig-out/bin/project-3 --multi-thread
+* `./zig-example/zig-out/bin/project-3 --single-thread`
+* `./zig-example/zig-out/bin/project-3 --multi-thread`
+
 
 
 
 ## Rust
 * Build: `cargo build -r`
-* ./rust-example/target/release/project-3 --single-thread
-* ./rust-example/target/release/project-3 --multi-thread
-    
+* `./rust-example/target/release/project-3 --single-thread`
+* `./rust-example/target/release/project-3 --multi-thread`
